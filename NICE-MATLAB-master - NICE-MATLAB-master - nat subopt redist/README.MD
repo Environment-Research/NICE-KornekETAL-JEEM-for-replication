@@ -4,6 +4,12 @@ This repository contains source code for a modified version the NICE model. The 
 
 - solver algorithm has been modified by scaling the objective function and allowing for a different solver
 
+The changed files from the original NICE-code are:
+
+- NICE_optimisation
+- optimiseNICEmitigation
+- equintileWelfareIT
+
 # Original NICE model
 
 The NICE model has been published in *Inequality, climate impacts on the future poor, and carbon prices, (Dennig et al., PNAS, 2015)*. The model is a modification of the RICE model by William Nordhaus and his collaborators, designed to analyse climate policy questions arising from socio-economic inequality within regions. It is written in the MATLAB programming language. See Dennig et al., PNAS, 2015 for a model description.
