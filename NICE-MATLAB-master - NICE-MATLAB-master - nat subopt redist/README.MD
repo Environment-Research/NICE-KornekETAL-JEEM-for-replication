@@ -16,7 +16,7 @@ The NICE model has been published in *Inequality, climate impacts on the future 
 
 The original NICE model code can be found here https://github.com/Environment-Research/NICE-MATLAB. 
 
-The re-use and modification of the original NICE model is permitted under the license in the upper folder and replicated in the readme file found in this folder.
+The re-use and modification of the original NICE model is permitted under the license-file in this folder.
 
 # Running the modified NICE version
 
