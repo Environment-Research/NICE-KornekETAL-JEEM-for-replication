@@ -52,19 +52,7 @@ for m = 1:1
             end
         end
         
-        switch eta
-                case 1 
-                    results_CASE1a=results; %w. eta=1
-                case 1.5 
-                    results_CASE1b=results; %w. eta=1.5
-                case 0.5
-                    results_CASE1c=results; %w. eta=0.5
-                case 2
-                    results_CASE1d=results; %w. eta=2
-                    
  
- 
-        end
        clear P;
 end
 end
