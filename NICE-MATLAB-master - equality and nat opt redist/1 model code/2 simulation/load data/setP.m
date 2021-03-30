@@ -1,0 +1,13 @@
+function Pa = setP(P,rho,eta,T7,q,xi,d,omega,z,Lq,tol)
+Pa = P;
+Pa.rho = rho;
+Pa.eta = eta;
+Pa.T7 = T7;
+Pa.q = q;
+Pa.exi = xi;
+Pa.d = d;
+Pa.omega = omega;
+Pa.z = z;
+Pa.Lq = Lq;
+Pa.tol = tol;
+Pa.p = 1;
