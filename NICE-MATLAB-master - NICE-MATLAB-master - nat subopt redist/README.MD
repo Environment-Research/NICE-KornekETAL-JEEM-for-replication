@@ -1,4 +1,4 @@
- Modified Nested Inequalities Climate-Economy (NICE) model
+ # Modified Nested Inequalities Climate-Economy (NICE) model
 
 This repository contains source code for a modified version the NICE model. The modification is:
 
@@ -10,7 +10,7 @@ The NICE model has been published in *Inequality, climate impacts on the future 
 
 The original NICE model code can be found here https://github.com/Environment-Research/NICE-MATLAB. 
 
-The re-use and modification of the original NICE model is permitted under the license found at the end of this file.
+The re-use and modification of the original NICE model is permitted under the license in the upper folder and replicated in the readme file found in this folder.
 
 # Running the modified NICE version
 
@@ -33,3 +33,5 @@ For the JEEM Publication, the following variables were varied to derive the resu
 If you encounter any issues operating the modified model, or require assistance identifying a problem or implementing a change, please contact Ulrike Kornek at kornek@mcc-berlin.net
 
 For questions concerning the original NICE model, please contact Francis Dennig at fdennig@yale-nus.edu.sg
+
+
