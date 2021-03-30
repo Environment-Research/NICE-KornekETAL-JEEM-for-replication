@@ -1,6 +1,8 @@
  # Modified Nested Inequalities Climate-Economy (NICE) model
 
-This repository contains source code for a modified version the NICE model. The modification is:
+This repository contains source code for a modified version the NICE model used in the publication *Inequality and the Social Cost of Carbon: when local redistribution shapes global carbon prices, (Kornek et al., JEEM, 2021)*
+
+The modification is:
 
 - solver algorithm has been modified by scaling the objective function and allowing for a different solver
 
