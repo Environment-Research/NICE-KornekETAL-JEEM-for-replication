@@ -49,17 +49,6 @@ for m = 1:1
             end
         end
         
-        %store results:
-        switch eta
-            case 1 
-                results_CASE4a=results; %w. eta=1
-            case 1.5 
-                results_CASE4b=results; %w. eta=1.5
-            case 0.5
-                results_CASE4c=results; %w. eta=0.5
-            case 2 
-                results_CASE4d=results; %w. eta=1
-        end
         
 clear P;
         
