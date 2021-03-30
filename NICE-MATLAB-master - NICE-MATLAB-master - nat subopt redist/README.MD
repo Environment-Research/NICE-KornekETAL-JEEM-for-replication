@@ -22,7 +22,7 @@ The re-use and modification of the original NICE model is permitted under the li
 
 Running the model requires MATLAB. Within that software, ensure that all of the files contained in this repository are included in the *path*. 
 
-Executing the file NICE_optimisation.m replicates the original NICE model version, only subject to changes in the solver algorithm to guarantee convergence. 
+Executing the file NICE_optimisation.m replicates the original NICE model version, only subject to changes in the solver algorithm to guarantee convergence. The results represent the scenario of nationally suboptimal transfers in the JEEM publication.
 
 
 The results are saved to a variable called "results". 
